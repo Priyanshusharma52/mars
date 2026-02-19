@@ -1,0 +1,15 @@
+body{
+  margin:0;
+}
+
+.page{
+  height:100vh;          /* har section full screen */
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:40px;
+}
+
+html{
+  scroll-behavior:smooth;   /* smooth scroll */
+}
